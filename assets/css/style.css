@@ -80,7 +80,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #99060d;
-    color: #ffffff;
+    color: #0c0c0c;
 }
 
 .my-work {
@@ -89,7 +89,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #99060d;
-    color: #ffffff;
+    color: #0c0c0c;
 }
 
 .contact-me {
@@ -98,7 +98,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #99060d;
-    color: #ffffff;
+    color: #0c0c0c;
 }
 
 .about-me img {
@@ -114,16 +114,6 @@ p {
 }
 
 .about-me h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
