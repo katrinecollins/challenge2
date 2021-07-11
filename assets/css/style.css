@@ -113,6 +113,12 @@ p {
 
 .Run-Buddy img {
     max-height: 150px;
+    align-self: auto;
+}
+
+.Mobile-Movie-Time img {
+    max-height: 150px;
+    align-items: center;
 }
 .contact-me img {
     max-height: 200px;
