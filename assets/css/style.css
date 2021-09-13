@@ -89,6 +89,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #99060d;
     color: #0c0c0c;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .contact-me {
@@ -109,16 +112,21 @@ p {
 }
 .my-work img {
     max-height: 200px;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .Run-Buddy img {
     max-height: 150px;
-    align-self: auto;
 }
 
 .Mobile-Movie-Time img {
     max-height: 150px;
-    align-items: center;
+}
+
+.Workout-Budz img {
+    max-height: 150px;
 }
 .contact-me img {
     max-height: 200px;
